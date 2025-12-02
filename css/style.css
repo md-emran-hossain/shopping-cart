@@ -15,15 +15,15 @@ body{
 	margin-bottom: 20px;
 }
 .center-item{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
 }
 .cart-item img{
 	width: 115px;
 }
 .cart-item h5{
-    padding: 0 45px;
+	padding: 0 45px;
 }
 .cart-item .remove-item{
 	width: 25px!important;
@@ -34,10 +34,10 @@ body{
 .cart-item .form-control{
 	background-color: #F6F5FA;
 	border: none;
-    width: 65px;
-    border-radius: 10px!important;
-    font-weight: 700;
-    font-size: 20px;
+	width: 65px;
+	border-radius: 10px!important;
+	font-weight: 700;
+	font-size: 20px;
 }
 .input-group{
 	width: unset;
@@ -47,8 +47,8 @@ body{
 	text-align: right;
 }
 .check-out{
-    float: right;
-    padding: 10px 30px;
+	float: right;
+	padding: 10px 30px;
 	font-size: 19px;
 	background-color: #2FBE70;
 	border: none;
